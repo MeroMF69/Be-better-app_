@@ -19,6 +19,7 @@ namespace Be_better_app______
         public MainWindow()
         {
             InitializeComponent();
+            Console.WriteLine("hello");
         }
     }
 }
